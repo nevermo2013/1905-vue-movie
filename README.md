@@ -23,7 +23,10 @@
 + Footer
 
 ## better-scroller
-+ https://better-scroll.github.io/docs/zh-CN/guide/#betterscroll-%E6%98%AF%E4%BB%80%E4%B9%88
++ github仓库 https://github.com/ustbhuangyi/better-scroll/blob/master/README_zh-CN.md
++ vue使用better-scroll  https://zhuanlan.zhihu.com/p/27407024
++ better-scroll文档 https://better-scroll.github.io/docs/zh-CN/
+  
 ## 地理定位
 
 

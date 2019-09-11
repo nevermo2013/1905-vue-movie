@@ -35,6 +35,11 @@ export default new Router({
       component: () => import(/* webpackChunkName: "main" */ '@/views/main/index.vue')
     },
     {
+      path: '/city',
+      name: 'city',
+      component: () => import(/* webpackChunkName: "city" */ '@/views/home/city/index.vue')
+    },
+    {
       path: '*',
       redirect: '/home'
     }

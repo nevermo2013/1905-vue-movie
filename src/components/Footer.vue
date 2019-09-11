@@ -20,7 +20,11 @@ export default {
     }
   },
 
-  methods: {}
+  methods: {
+      say(){
+          alert('Hi');
+      }
+  }
 }
 </script>
 

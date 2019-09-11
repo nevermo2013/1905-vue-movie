@@ -15,6 +15,9 @@ export default {
 </script>
 <style lang="scss">
 @import "@/assets/css/common/common.scss";
+body,html{
+  height: 100%;
+}
 body{
   background-color: $baseBgColor;
 }
@@ -24,6 +27,7 @@ body{
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  height: 100%;
   
 }
 #nav {
